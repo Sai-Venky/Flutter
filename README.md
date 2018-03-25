@@ -1,6 +1,7 @@
 # hellospeech
 
-A new Flutter project.
+A new Flutter project which implements the existing speech recognition flutter package.
+For the project to work add microphone permission manually.
 
 ## Getting Started
 
