@@ -9,3 +9,5 @@ Also add microphone permission manually.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+This implements the speech recognition using flutter leveraging dart.
